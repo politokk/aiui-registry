@@ -6,7 +6,7 @@
   "description": "A modal dialog that interrupts the user with important content.",
   "registryDependencies": [
     "dialog",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

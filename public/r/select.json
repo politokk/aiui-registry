@@ -6,7 +6,7 @@
   "description": "Displays a list of options for the user to pick from—triggered by a button.",
   "registryDependencies": [
     "select",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

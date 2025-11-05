@@ -6,7 +6,7 @@
   "description": "Allows users to select multiple items from a list of options.",
   "registryDependencies": [
     "checkbox",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

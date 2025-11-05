@@ -6,7 +6,7 @@
   "description": "Displays the path to the current resource using a hierarchy of links.",
   "registryDependencies": [
     "date-picker",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

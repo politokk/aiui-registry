@@ -6,7 +6,7 @@
   "description": "Visually or semantically separates content.",
   "registryDependencies": [
     "separator",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

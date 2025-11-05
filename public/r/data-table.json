@@ -6,7 +6,7 @@
   "description": "Powerful table and datagrids built using TanStack Table.",
   "registryDependencies": [
     "data-table",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

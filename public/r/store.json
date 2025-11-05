@@ -5,8 +5,8 @@
   "title": "Store",
   "description": "A store application with your brand themed components",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/product-grid.json",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/product-grid.json",
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

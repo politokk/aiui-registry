@@ -9,9 +9,9 @@
     "input",
     "avatar",
     "sidebar",
-    "https://registry-starter.vercel.app/r/sonner.json",
-    "https://registry-starter.vercel.app/r/logo.json",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/sonner.json",
+    "https://aiui-registry-rho.vercel.app/r/logo.json",
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

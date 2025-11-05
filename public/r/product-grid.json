@@ -5,7 +5,7 @@
   "title": "Product Grid",
   "description": "Product grid displaying all products with API to fetch data",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

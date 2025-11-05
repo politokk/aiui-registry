@@ -6,7 +6,7 @@
   "description": "Displays a menu to the user triggered by a button.",
   "registryDependencies": [
     "dropdown-menu",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

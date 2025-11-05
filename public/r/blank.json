@@ -5,10 +5,10 @@
   "title": "Blank",
   "description": "A blank application with all brand components and code",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/brand-header.json",
-    "https://registry-starter.vercel.app/r/brand-sidebar.json",
-    "https://registry-starter.vercel.app/r/product-grid.json",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/brand-header.json",
+    "https://aiui-registry-rho.vercel.app/r/brand-sidebar.json",
+    "https://aiui-registry-rho.vercel.app/r/product-grid.json",
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

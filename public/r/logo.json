@@ -5,7 +5,7 @@
   "title": "Brand Logo",
   "description": "A styled, simple, reusable logo",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

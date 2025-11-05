@@ -6,7 +6,7 @@
   "description": "Attention-grabbing section to display the current promotional deal.",
   "registryDependencies": [
     "button",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

@@ -6,7 +6,7 @@
   "description": "A control that allows the user to toggle between checked and not checked.",
   "registryDependencies": [
     "switch",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

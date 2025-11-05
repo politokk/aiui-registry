@@ -1,4 +1,4 @@
-<a href="https://registry-starter.vercel.app/">
+<a href="https://aiui-registry-rho.vercel.app/">
   <h1 align="center">Registry Starter</h1>
 </a>
 
@@ -26,7 +26,7 @@ You can deploy your own version of the Next.js Registry Starter to Vercel with o
 
 ## Open in v0
 
-[![Open in v0](https://registry-starter.vercel.app/open-in-v0.svg)](https://v0.dev/chat/api/open?title=Dashboard+Kit&prompt=These+are+existing+design+system+styles+and+files.+Please+utilize+them+alongside+base+components+to+build.&url=https%3A%2F%2Fregistry-starter.vercel.app%2Fr%2Fdashboard.json)
+[![Open in v0](https://aiui-registry-rho.vercel.app/open-in-v0.svg)](https://v0.dev/chat/api/open?title=Dashboard+Kit&prompt=These+are+existing+design+system+styles+and+files.+Please+utilize+them+alongside+base+components+to+build.&url=https%3A%2F%2Fregistry-starter.vercel.app%2Fr%2Fdashboard.json)
 
 This registry application also exposes `Open in v0` buttons for each component. Once this application is deployed, the
 `Open in v0` button redirects to [`v0.dev`](https://v0.dev) with a prepopulated prompt and a URL pointing back to this

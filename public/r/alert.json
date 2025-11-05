@@ -6,7 +6,7 @@
   "description": "Displays a callout for user attention.",
   "registryDependencies": [
     "alert",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

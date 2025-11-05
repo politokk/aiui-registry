@@ -6,7 +6,7 @@
   "description": "A responsive table component.",
   "registryDependencies": [
     "table",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

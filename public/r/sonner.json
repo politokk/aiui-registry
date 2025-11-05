@@ -6,7 +6,7 @@
   "description": "An opinionated toast component for React.",
   "registryDependencies": [
     "sonner",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

@@ -5,7 +5,7 @@
   "title": "Input",
   "description": "Displays a form input field or a component that looks like an input field.",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

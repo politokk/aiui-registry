@@ -6,7 +6,7 @@
   "description": "Beautiful charts. Built using Recharts. Copy and paste into your apps.",
   "registryDependencies": [
     "chart",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

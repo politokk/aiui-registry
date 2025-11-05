@@ -5,7 +5,7 @@
   "title": "Button",
   "description": "Allows users to take actions with a single click or tap.",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

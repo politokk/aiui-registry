@@ -5,7 +5,7 @@
   "title": "Card",
   "description": "Containers for displaying content and actions about a single subject.",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

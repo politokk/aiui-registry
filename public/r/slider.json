@@ -6,7 +6,7 @@
   "description": "An input where the user selects a value from within a given range.",
   "registryDependencies": [
     "slider",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

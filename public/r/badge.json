@@ -5,7 +5,7 @@
   "title": "Badge",
   "description": "Displays a small count or status indicator.",
   "registryDependencies": [
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

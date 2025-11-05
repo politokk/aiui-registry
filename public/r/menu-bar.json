@@ -6,7 +6,7 @@
   "description": "A visually persistent menu common in desktop applications that provides quick access to a consistent set of commands.",
   "registryDependencies": [
     "menu-bar",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

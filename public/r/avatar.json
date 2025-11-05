@@ -6,7 +6,7 @@
   "description": "An image element with a fallback for representing the user.",
   "registryDependencies": [
     "avatar",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {

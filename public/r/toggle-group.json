@@ -6,7 +6,7 @@
   "description": "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it.",
   "registryDependencies": [
     "toggle-group",
-    "https://registry-starter.vercel.app/r/theme.json"
+    "https://aiui-registry-rho.vercel.app/r/theme.json"
   ],
   "files": [
     {
