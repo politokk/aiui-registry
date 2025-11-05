@@ -77,6 +77,7 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
+  SidebarRail,
   useSidebar,
 } from "@/components/ui/sidebar";
 import { getBlocks, getComponents, getUIPrimitives } from "@/lib/registry";
@@ -387,6 +388,7 @@ export function RegistrySidebar() {
       <SidebarFooter className="border-t border-sidebar-border px-1 py-0">
         <NavUser user={data.user} />
       </SidebarFooter>
+      <SidebarRail />
     </Sidebar>
   );
 }
