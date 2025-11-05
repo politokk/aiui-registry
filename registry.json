@@ -1,7 +1,7 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
-  "name": "Registry Starter",
-  "homepage": "https://registry-starter.vercel.app",
+  "name": "AIUI Registry",
+  "homepage": "https://aiui-registry-rho.vercel.app/",
   "items": [
     {
       "name": "theme",
@@ -11,7 +11,7 @@
       "cssVars": {
         "light": {
           "background": "oklch(1.0 0.0 0.0)",
-          "foreground": "oklch(0.3 0.04 30.2)",
+          "foreground": "oklch(0.37 0.04 257)",
           "card": "oklch(1 0 0)",
           "card-foreground": "oklch(0.37 0.04 257)",
           "popover": "oklch(1 0 0)",
